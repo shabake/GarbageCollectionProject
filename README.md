@@ -1,15 +1,16 @@
 ## 懒人帮 - 垃圾回收
 
 ### API
+common
 
 `baseUrl`:`https://a4cj1hm5.api.lncld.net/1.1/classes`
 
-请求头:  
-> X-LC-Id : a4Cj1Hm5aMrdhob6xGw71B5A-gzGzoHsz
-> 
-> X-LC-Key : XQaL1tUQC0DCQxBA9fpoR21C
-> 
-> Content-Type:application/json
+` X-LC-Id` : `a4Cj1Hm5aMrdhob6xGw71B5A-gzGzoHsz`
+ 
+` X-LC-Key` : `XQaL1tUQC0DCQxBA9fpoR21C`
+ 
+`Content-Type`:`application/json`
+
 
 ##### 发布订单
 

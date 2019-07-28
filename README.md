@@ -29,7 +29,7 @@ common
 | money |||金额
 | cost |||小费
 | floor |||楼层
-| orderStatus |||订单状态
+| orderStatus |||订单状态,0可接单,1已接单,2订单成功,3订单失效
 | name |||客户姓名
 | phone |||电话
 | zone |||客户所在区域
